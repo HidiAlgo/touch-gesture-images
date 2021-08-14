@@ -1,1 +1,1 @@
-Sinhala character images taken collected on mobile touch gestures. 
+Sinhala character images collected on mobile touch gestures. 
